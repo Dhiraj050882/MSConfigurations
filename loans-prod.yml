@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Dummy Bank Loans related Production APIs "
+  message: "Welcome to Dummy Bank Loans related Release APIs "
   contactDetails:
     name: "Zachary Burns - Release Manager"
     email: "zach.b@dummybank.com"
   onCallSupport:
-    -(111) 515-1256
-    -(111) 523-3456
+    - (111) 515-1256
+    - (111) 523-3456
