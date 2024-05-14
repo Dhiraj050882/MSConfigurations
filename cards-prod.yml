@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Dummy Bank accounts related Release APIs "
+  message: "Welcome to Dummy Bank accounts related Production APIs "
   contactDetails:
     name: "Dhiraj Singh - Release Manager"
     email: "dhiraj@dummybank.com"
