@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Dummy Bank accounts related Release APIs "
   contactDetails:
     name: "Dhiraj Singh - Release Manager"
-    email: "bb2ab3e23b685aa6f417b65ec69e917d40bdbcd27f5e39a4d30ce6581a6d257ee545e9a04f4a6c6334bc618aeb9fdd25"
+    email: "{cipher}bb2ab3e23b685aa6f417b65ec69e917d40bdbcd27f5e39a4d30ce6581a6d257ee545e9a04f4a6c6334bc618aeb9fdd25"
   onCallSupport:
     -(111) 515-1256
     -(111) 523-3456
